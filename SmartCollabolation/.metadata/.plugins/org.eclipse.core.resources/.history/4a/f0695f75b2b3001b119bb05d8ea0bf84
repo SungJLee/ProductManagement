@@ -1,0 +1,11 @@
+
+
+import java.util.Scanner;
+
+public class Menu {
+	
+	int[] id;
+	String[] name;
+	double[] price;
+	int[] amount;
+}

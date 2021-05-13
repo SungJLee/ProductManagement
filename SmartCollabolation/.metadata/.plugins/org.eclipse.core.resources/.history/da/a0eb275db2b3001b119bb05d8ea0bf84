@@ -1,0 +1,39 @@
+
+
+import java.util.Scanner;
+
+public class Drinks extends Menu{
+	public void AddDrinkMenu() {
+		this.name[0] = "icedcoffee";
+		this.name[1] = "icedtea";	
+		this.name[2] = "iceTea";
+		this.name[3] = "shake";
+		this.name[4] = "smoothie";
+		this.name[5] = "frappe";
+		this.name[6] = "hotcoffe";
+		
+		this.price[0] = 3000;
+		this.price[1] = 3000;
+		this.price[2] = 3000;
+		this.price[3] = 3000;
+		this.price[4] = 3000;
+		this.price[5] = 3000;
+		this.price[6] = 3000;
+		
+		this.id[0] = 0;
+		this.id[1] = 1;
+		this.id[2] = 2;
+		this.id[3] = 3;
+		this.id[4] = 4;
+		this.id[5] = 5;
+		this.id[6] = 6;
+		
+		this.amount[0] = 100;
+		this.amount[1] = 100;
+		this.amount[2] = 100;
+		this.amount[3] = 100;
+		this.amount[4] = 100;
+		this.amount[5] = 100;
+		this.amount[6] = 100;
+	}
+}

@@ -1,0 +1,33 @@
+
+
+public class Eattings extends Menu{
+	public void AddEattingMenu() {
+		name[7] = "쿠키";
+		name[8] = "케이크";	
+		name[9] = "브레드";
+		name[10] = "빙수";
+		name[11] = "도넛";
+		name[12] = "마카롱";
+		
+		price[7] = 4000;
+		price[8] = 4000;
+		price[9] = 4000;
+		price[10] = 4000;
+		price[11] = 4000;
+		price[12] = 4000;
+		
+		id[7] = 7;
+		id[8] = 8;
+		id[9] = 9;
+		id[10] = 10;
+		id[11] = 11;
+		id[12] = 12;
+		
+		amount[7] = 100;
+		amount[8] = 100;
+		amount[9] = 100;
+		amount[10] = 100;
+		amount[11] = 100;
+		amount[12] = 100;
+	}
+}

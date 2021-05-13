@@ -1,0 +1,13 @@
+package cafe;
+
+public class IceDrinks extends Drinks{
+	
+	String coffee;
+	String tea;
+	String iceTea;
+	String shake;
+	String smoothie;
+	String frappe;
+	
+}
+

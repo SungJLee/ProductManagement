@@ -1,0 +1,13 @@
+
+
+public class Inventory {
+	
+	public void LookUpEatingInventory(String inventoryname, Object inventory) {
+		if(inventoryname.equals("cookie")) {
+			System.out.println("쿠키의 양"+ inventoryname.amount);
+		}else if(inventoryname.equals("케이크")){
+			System.out.println("cake" + inventoryname.amount);
+		}
+		
+	}
+}
